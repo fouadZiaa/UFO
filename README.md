@@ -3,10 +3,10 @@
 ![Image1](https://github.com/fouadZiaa/UFO/blob/18138b7ba5b10dc6cff447adf249c49fc5b52628/static/images/UFO%20Image%201.png)
 
 ## Overview 
-The purpose of this project was to take an insight on UFO Sightings using Java, HTML,and CSS. I created multiple filters for users to input and gather their own insight on UFO Sightings.
+The purpose of this project was to take an insight on UFO Sightings using Java, HTML,and CSS. We created multiple filters for users to input and gather their own insight on UFO Sightings.
 
 ## Results
-In order to gather insight on this data, we will pick a state to look into to give users an understanding of how this webpage functions. The state I will use is California. To start to go to the filer "Enter a State" and enter the abbreviation "ca" into the search bar then press the "Filter Table" Button. 
+In order to gather insight on this data, we will pick a state to look into to give users an understanding of how this webpage functions. The state we will use is California. To start to go to the filer "Enter a State" and enter the abbreviation "ca" into the search bar then press the "Filter Table" Button. 
 
 The following image is what will be displayed:
 
@@ -23,4 +23,4 @@ The following image is what will be displayed:
 ## Summary
 Overall the process of the webpage is easy to follow and intuitive. But a certain drawback with this webpage is that it is case sensitive in that if we type "San Diego" instead of "san diego" we will not get any results. 
 
-In further development of this webpage, I would reccomend this correct this case sensitive issue as well as include more data into the webpage with UFO sightings!
+In further development of this webpage, we would reccomend this correct this case sensitive issue as well as include more data into the webpage with UFO sightings!
