@@ -1,0 +1,13 @@
+body{
+    color: #f7f7f7;
+}
+
+.jumbotron{
+    background-image:url("../images/nasa.jpg");
+    background-size: 100% 100%;
+    text-align:center;
+}
+
+form{position:relative;}
+.tasksInput{margin-right:150px;}
+.submit-and-options{position:absolute; right:0; top:0;}
